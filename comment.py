@@ -2,7 +2,7 @@ import urllib.request
 import re
 from time import clock as now
 import json
-
+#单线程
 #主要函数
 def getjd(pid):
     #通过京东服务器查
