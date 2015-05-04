@@ -4,7 +4,7 @@ from time import clock as now
 import json
 import threading
 import time
-
+#multithreading
 _temp = 0
 _count = 0
 #请求并获取json
